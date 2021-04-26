@@ -1,6 +1,8 @@
 # chai-formatter-monkeypatch
 
-Packaged from: <https://stackoverflow.com/a/28652362/1633985>
+[![Node.js Package](https://github.com/TeNNoX/chai-formatter-monkeypatch/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/TeNNoX/chai-formatter-monkeypatch/actions/workflows/npm-publish.yml)
+
+Packaged from [StackOverflow](https://stackoverflow.com/a/28652362/1633985)
 
 ## Installation
 
