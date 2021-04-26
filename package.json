@@ -1,0 +1,22 @@
+{
+  "name": "chai-formatter-monkeypatch",
+  "version": "1.0.0",
+  "description": "Monkey-patch object formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tennox/chai-formatter-monkeypatch.git"
+  },
+  "keywords": [
+    "chai"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tennox/chai-formatter-monkeypatch/issues"
+  },
+  "homepage": "https://github.com/tennox/chai-formatter-monkeypatch#readme"
+}
